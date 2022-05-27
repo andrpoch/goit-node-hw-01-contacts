@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrpoch/goit-node-hw-01-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrpoch/goit-node-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/andrpoch/goit-node-hw-01-contacts#readme"
+}
